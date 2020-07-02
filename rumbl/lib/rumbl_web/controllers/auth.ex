@@ -11,3 +11,4 @@ defmodule RumblWeb.Auth do
     end
 
 end
+
